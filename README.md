@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gvaleriarj
 - 👀 I’m interested in distributed computing and programming
-- 🌱 I’m currently learning react, erlang, rust and some theory or computation
-- 💞️ I’m looking to collaborate on web projects and distributed programming projects
+- 🌱 I’m currently learning react, rust and some theory of computation
+- 💞️ I’m a PhD student in IIMAS, UNAM
 - 📫 How to reach me: my ig is @gvaleriarj
 
 <!---
