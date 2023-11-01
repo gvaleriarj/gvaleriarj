@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gvaleriarj
 - 👀 I’m interested in distributed computing and programming
 - 🌱 I’m currently learning react, rust and some theory of computation
-- 💞️ I’m a PhD student in IIMAS, UNAM
+- 💞️ I’m a PhD student at IIMAS, UNAM
 - 📫 How to reach me: my email is gildevroji@gmail.com
 
 <!---
